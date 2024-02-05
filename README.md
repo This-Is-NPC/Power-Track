@@ -159,4 +159,4 @@ A regra acima se aplica à criação do componente. Quando ele é importado para
 
 > 🚨 A instância é adicionada ao final dos componentes porque, frequentemente, vários componentes do mesmo tipo ou até mesmo com o mesmo nome podem se repetir na aplicação. Dessa forma, ao precisar reutilizar, basta copiar e colar, e automaticamente o item copiado será o próximo na sequência numérica da instância. Por exemplo, ao utilizar "ccHomeHeader_1" duas vezes na mesma tela, ao ser copiado e colado, seu nome será automaticamente alterado para "ccHomeHeader_2".
 
-> 🚨 Créditos a David Wyatt, cujo artigo (https://dev.to/wyattdave/power-apps-naming-conventions-88e - Power Apps Naming Conventions) foi utilizado como base para a elaboração do documento. 
+> 🚨 Créditos a David Wyatt, cujo artigo (https://dev.to/wyattdave/power-apps-naming-conventions-88e - Power Apps Naming Conventions) foi utilizado como base para a elaboração do documento e ao meu amigo [https://www.linkedin.com/in/daniel-damaceno/](Daniel Damaceno) que está auxiliando na revisão deste documento.
