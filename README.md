@@ -24,6 +24,11 @@ O Power Track valoriza contribuições da comunidade para aprimorar o projeto. S
 
 Qualquer necessidade, bug ou sugestão de melhoria também pode ser solicitada como uma issue no projeto. Acompanhe o andamento do desenvolvimento na aba "Projects" do próprio repositório.
 
+## Time do projeto
+[Antônio Gabriel Follone Graça As Dev/P.O](https://www.linkedin.com/in/ant%C3%B4nio-gabriel-follone-gra%C3%A7a-a03515184/)
+[Antônio Matheus Follone Graça As Dev/Q.A](https://www.linkedin.com/in/antonio-matheus-follone-gra%C3%A7a-02a940199/)
+[Daniel Damaceno As Tech Writer/Q.A](https://www.linkedin.com/in/daniel-damaceno/)
+
 ## Licença
 
 Este projeto é licenciado sob a [MIT License](LICENSE), o que significa que você tem liberdade para usar, modificar e distribuir o código, sujeito às condições da licença.
