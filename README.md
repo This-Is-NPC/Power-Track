@@ -124,6 +124,11 @@ Seguindo a lógica do display name e logical name, o nome do aplicativo pode ter
 | table  | t         | ctCollection |
 
 ### Coleções
+Toda coleção é global e seu tipo é tabela, portanto, podemos seguir o seguinte padrão.
+> [escopo][nome] <br>
+> colRequests (col = coleção / Requests = nome da coleção)
+
+### Controles de tela
 Aqui, aplica-se a lógica da coleção, pois todos os componentes de tela são globais. Portanto, não é necessário seguir o padrão das variáveis.
 
 > [componente][tela][nome][instância]  <br>
